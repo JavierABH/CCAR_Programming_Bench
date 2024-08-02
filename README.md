@@ -1,2 +1,2 @@
-# CCAR_EOL_PROJECT
-Sequence that show images and communication to a android device with adb commands
+# CCar Programming Bench
+GUI for the technicians for debug device with android
